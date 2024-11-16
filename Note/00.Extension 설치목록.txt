@@ -1,0 +1,5 @@
+1. Extension 설치
+    - Python
+    - Jupyter
+    - Material Icon Theme
+    - indent-rainbow
